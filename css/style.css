@@ -45,3 +45,23 @@ h1{
 .jobs{
   height: 350px;
 }
+
+#about{
+  background-color: #53BD9D;
+
+}
+#about .text{
+  height: 250px;
+}
+
+.btn{
+  height: 50px;
+}
+
+#contact .input{
+  height: 45px;
+}
+
+#contact .input:last-child{
+  height: 180px;
+}
