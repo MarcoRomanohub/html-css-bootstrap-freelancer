@@ -21,7 +21,6 @@ ul li{
 }
 
 #start{
-  height: 500px;
   background-color: #53BD9D
 }
 
@@ -33,4 +32,16 @@ ul li{
 h1{
   font-size: 2.5rem;
   margin: 10px 0;
+}
+
+.starbar{
+  height: 50px;
+}
+
+.skills{
+  height: 40px;
+}
+
+.jobs{
+  height: 350px;
 }
